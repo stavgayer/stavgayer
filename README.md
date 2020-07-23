@@ -22,11 +22,6 @@
 ![Google Cloud Platform](http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=ffffff)
 ![Bash](http://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
-**Now Playing** on Spotify
-
-<a href="https://status.nmoo.dev/now-playing?open">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
-</a>
 <!--
 **stavgayer/stavgayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
