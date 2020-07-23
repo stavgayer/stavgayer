@@ -1,4 +1,5 @@
 ### Hi I'm Stav 👋
+
 [![Linkedin Badge](https://img.shields.io/badge/-stavgayer-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stav-gayer-91279088)](https://www.linkedin.com/in/stav-gayer-91279088)
 [![Website Badge](https://img.shields.io/badge/-stavoverflow.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://stavoverflow.com)](https://stavoverflow.com)
 [![Twitter Badge](https://img.shields.io/badge/-@stavgayer123-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Stavgayer123)](https://twitter.com/Stavgayer123)
