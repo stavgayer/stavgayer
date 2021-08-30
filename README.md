@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@stavgayer123-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/stavgayer123/)](https://instagram.com/stavgayer123/)
 [![Gmail Badge](https://img.shields.io/badge/-stavgayer-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stavgayer@gmail.com)](mailto:stavgayer@gmail.com)
 
-:computer: _Full stack Developer at Mediaforce_
+:computer: _Software Engineer at Mediaforce_
 
 ### My Tech Stack
 ![Go](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
