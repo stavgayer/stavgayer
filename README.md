@@ -1,5 +1,5 @@
 ### Hi I'm Stav 👋
-<-- 
+<!-- 
 ![Stav](https://github.com/stavgayer/stavgayer/blob/master/hi.png "Stav Gayer")
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-Stav%20Gayer-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stav-gayer-91279088)](https://www.linkedin.com/in/stav-gayer-91279088)
